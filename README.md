@@ -1,8 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshittsharma&base=100" /> </p>
 
 - 👋 Hi, I’m @akshittsharma
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on making projects.
 - 📫 How to reach me -akshit.nitb@gmail.con
 
